@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d4f4e7f-fdc0-4ff9-a5ce-f9300c2d4861" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="2d4f4e7f-fdc0-4ff9-a5ce-f9300c2d4861" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +85,7 @@
       <workItem from="1577389954332" duration="10055000" />
       <workItem from="1577539906859" duration="6539000" />
       <workItem from="1577557115454" duration="123000" />
+      <workItem from="1577643324730" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="Finalizada licao de jpa entities">
       <created>1577410203309</created>
