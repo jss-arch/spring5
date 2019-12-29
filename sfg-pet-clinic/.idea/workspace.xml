@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35a8630e-53c0-4160-9a91-60de22eb667e" name="Default Changelist" comment="" />
+    <list default="true" id="35a8630e-53c0-4160-9a91-60de22eb667e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +12,17 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="books-view-and-controller" />
+        <entry key="$PROJECT_DIR$/.." value="di-demo" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -29,7 +38,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Vceq6rEY54X5hDU3PglAWVgojm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,6 +75,7 @@
       <updated>1577556997083</updated>
       <workItem from="1577556999921" duration="32000" />
       <workItem from="1577557090678" duration="2003000" />
+      <workItem from="1577653323572" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="Modificando git ignore">
       <created>1577557331415</created>
@@ -91,6 +103,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Iniciado desenvolvimento do projeto Pet Clinic" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="773" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1577653763174">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="773" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1577653763174" />
     <state x="574" y="122" key="CommitChangelistDialog2" timestamp="1577557481205">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
