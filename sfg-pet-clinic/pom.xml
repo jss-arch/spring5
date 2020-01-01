@@ -40,4 +40,8 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:git@github.com:jss-arch/spring5.git</developerConnection>
+    </scm>
+
 </project>
