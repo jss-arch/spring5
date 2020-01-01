@@ -138,4 +138,8 @@ Desktop.ini
 ######################
 # ESLint
 ######################
+<<<<<<< HEAD
 .eslintcache
+=======
+.eslintcache
+>>>>>>> 981395c121549de68acc5b8659957e38af45782a
